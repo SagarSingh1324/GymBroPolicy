@@ -1,2 +1,2 @@
-# GymBroPolicy
-Privacy policy for GymBro mobile app
+# AppsPolicy
+Privacy policies of all my mobile apps
