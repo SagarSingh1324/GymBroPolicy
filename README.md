@@ -1,2 +1,2 @@
-# AppsPolicy
-Privacy policies of all my mobile apps
+# SagarSinghDev
+Information related to all my mobile apps
